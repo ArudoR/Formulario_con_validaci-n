@@ -54,6 +54,7 @@ main{
     font-size: 12px;
     margin-bottom: 0;
     display: none;
+    color:#35D0DB;
 }
 
 .formulario__input-error-activo{
